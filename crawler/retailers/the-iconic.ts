@@ -16,7 +16,7 @@ export class TheIconicCrawler extends BaseCrawler implements RetailerCrawler {
      */
     async extractProductPage(page: Page): Promise<Product> {
         try {
-
+            // temp
         } catch (error) {
 
         }
